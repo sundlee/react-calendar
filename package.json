@@ -2,7 +2,7 @@
   "name": "rc-calendar2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sundlee/react-calendar.git",
+  "homepage": "https://sundlee.github.io/react-calendar/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "moment": "^2.24.0",
