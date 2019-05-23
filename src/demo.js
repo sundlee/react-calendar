@@ -3,7 +3,6 @@ import 'rc-calendar/assets/index.css';
 import Picker from './picker';
 
 
-
 class Demo extends React.Component {
   state = {
     startValue: null,
