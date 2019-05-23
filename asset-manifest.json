@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-calendar/static/css/main.2cce8147.chunk.css",
-    "main.js": "/react-calendar/static/js/main.a2779645.chunk.js",
-    "main.js.map": "/react-calendar/static/js/main.a2779645.chunk.js.map",
+    "main.js": "/react-calendar/static/js/main.16973a1f.chunk.js",
+    "main.js.map": "/react-calendar/static/js/main.16973a1f.chunk.js.map",
     "runtime~main.js": "/react-calendar/static/js/runtime~main.40a83ec6.js",
     "runtime~main.js.map": "/react-calendar/static/js/runtime~main.40a83ec6.js.map",
     "static/css/2.4118c0c4.chunk.css": "/react-calendar/static/css/2.4118c0c4.chunk.css",
     "static/js/2.2fff2ac0.chunk.js": "/react-calendar/static/js/2.2fff2ac0.chunk.js",
     "static/js/2.2fff2ac0.chunk.js.map": "/react-calendar/static/js/2.2fff2ac0.chunk.js.map",
     "index.html": "/react-calendar/index.html",
-    "precache-manifest.ca03f345a8c31186b4a288e75d4f384a.js": "/react-calendar/precache-manifest.ca03f345a8c31186b4a288e75d4f384a.js",
+    "precache-manifest.14efe7cc5e86f38573873a78cbbe239c.js": "/react-calendar/precache-manifest.14efe7cc5e86f38573873a78cbbe239c.js",
     "service-worker.js": "/react-calendar/service-worker.js",
     "static/css/2.4118c0c4.chunk.css.map": "/react-calendar/static/css/2.4118c0c4.chunk.css.map",
     "static/css/main.2cce8147.chunk.css.map": "/react-calendar/static/css/main.2cce8147.chunk.css.map"
