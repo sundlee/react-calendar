@@ -5,7 +5,7 @@
   "homepage": "https://sundlee.github.io/react-calendar/",
   "dependencies": {
     "gh-pages": "^2.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "querystringify": "^2.1.1",
     "rc-calendar": "^9.15.10",
     "react": "^16.13.1",
